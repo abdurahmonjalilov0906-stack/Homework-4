@@ -367,6 +367,7 @@ header h1 {
     background-size: cover;
     background-repeat: no-repeat;
     background-image: url(./img.png/8de3e093eed270f10f62924ad2b56e1a61ebee91.png);
+    margin: 100px 0px;
 
 }
 .part-7 {
@@ -389,4 +390,74 @@ header h1 {
     background-color: rgba(23, 123, 165, 1);
     color: white;
     font-size: 20px;
+}
+.section-8 {
+    display: flex;
+    justify-content: space-evenly;
+    
+    gap: 50px;
+}
+.part-8 h5 {
+    font-size: 25px;
+    padding-bottom: 20px;
+}
+.part-8 p {
+    font-size: 20px;
+    color: rgba(41, 45, 50, 1);
+
+}
+.part-8 h6 {
+    font-size: 20px;
+    padding-top: 30px;
+}
+.article-6 {
+    display: flex;
+    padding-top: 10px;
+}
+.part-9 h5 {
+    font-size: 25px;
+    padding-bottom: 20px;
+}
+.part-9 p {
+    font-size: 20px;
+    color: rgba(41, 45, 50, 1);
+    padding-bottom: 10px;
+}
+.part-10 h5 {
+    font-size: 25px;
+    padding-bottom: 20px;
+}
+.article-7 {
+    display: flex;
+    gap: 10px;
+    padding-top: 10px;
+}
+.part-11 h5 {
+    font-size: 25px;
+    padding-bottom: 20px;
+}
+.part-11 p {
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+.but-3 {
+    display: block;
+    padding: 15px 40px;
+    border-radius: 40px;
+    color: rgba(41, 45, 50, 0.5);
+    border: none;
+    background-color: rgba(255, 255, 255, 1);
+    margin-bottom: 20px;
+
+}
+.but-4 {
+    background-color: rgba(23, 123, 165, 1);
+    color: white;
+}
+.section-9 {
+    background-color:rgba(41, 45, 50, 1) ;
+    text-align: center;
+    color: white;
+    padding: 20px;
+
 }
