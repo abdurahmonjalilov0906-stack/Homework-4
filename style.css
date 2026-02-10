@@ -233,5 +233,53 @@ header h1 {
     color: white;
     border: none;
     font-size: 20px;
-
+}
+.section-4 {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    align-items: center;
+    margin: 100px auto ;
+}
+.sector-6 {
+    width: 450px;
+}
+.sector-6 h2 {
+    font-size: 55px;
+    padding-bottom: 30px;
+}
+.sector-6 p {
+    font-size: 30px;
+    color: rgba(41, 45, 50, 1);
+}
+.article-3 {
+    margin: 20px 60%;
+    display: flex;
+    gap: 10px;
+}
+.sector-7 {
+    width: 250px;
+    height: 400px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 50px;
+    background-image: url(./img.png/8bf0aeaadeff652bf36e29a19b38df05d99404e4.png);
+}
+.sector-7 p {
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 320px;
+    color: white;
+}
+.sector-8 {
+    display: flex;
+    gap: 20px;
+}
+.sec7 {
+    background-image: url(./img.png/804d98472b7a6cca3d25738272ea77aa7c556009.png);
+}
+.sec8 {
+    background-image: url(./img.png/fc819fa3929b0b1868db8a789792793264ec7932.png);
 }
