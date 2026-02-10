@@ -283,3 +283,40 @@ header h1 {
 .sec8 {
     background-image: url(./img.png/fc819fa3929b0b1868db8a789792793264ec7932.png);
 }
+.section-5 {
+    margin: 150px 5% ;
+}
+.section-5 h2 {
+    font-size: 60px;
+    text-align: center;
+    color: rgba(41, 45, 50, 1);
+    padding-bottom: 50px;
+}
+.sector-9 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    margin-bottom: 50px;
+}
+.par-4 {
+
+}
+.part-5 {
+    width: 40%;
+}
+.part-5 h3 {
+    font-size: 45px;
+    padding-bottom: 30px;
+    font-weight: bolder;
+}
+.part-5 p {
+    font-size: 30px;
+    padding-bottom: 30px;
+    color: rgba(41, 45, 50, 1);
+}
+.article-5 {
+    display: flex;
+    align-items: baseline;
+    font-size: 25px;
+}
