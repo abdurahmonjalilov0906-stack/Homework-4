@@ -134,9 +134,11 @@ header h1 {
 
 .sector-3 {
     display: flex;
+    justify-content: center;
     flex-wrap: wrap;
     gap: 30px;
-    padding: 50px 10%;
+    padding: 50px 5%;
+    margin: auto;
 }
 
 .part-1 {
