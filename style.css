@@ -202,3 +202,36 @@ header h1 {
     background-color: rgba(252, 221, 236, 1);
     color: rgba(241, 120, 182, 1);
 }
+.section-3 {
+    display: flex;
+    align-items: center;
+    padding: 100px 5%;
+    gap: 50px;
+    background-color: rgba(244, 242, 238, 1);
+}
+.sector-4 {
+    width: 45%;
+}
+.sector-5 {
+    width: 40%;
+}
+.sector-5 h3 {
+    font-size: 55px;
+    font-weight: bolder;
+    color: rgba(23, 123, 165, 1);
+    padding-bottom: 30px;
+}
+.sector-5 p {
+    font-size: 30px;
+    color: rgba(41, 45, 50, 1);
+    padding-bottom: 30px;
+}
+.but-1 {
+    padding:20px;
+    background-color:rgba(23, 123, 165, 1) ;
+    border-radius: 40px;
+    color: white;
+    border: none;
+    font-size: 20px;
+
+}
